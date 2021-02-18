@@ -1,5 +1,5 @@
 {
-    "name": "typehints/laravel-unused",
+    "name": "volkv/laravel-unused",
     "description": "Unused Views,Controllers,.. for Laravel",
     "keywords": ["laravel", "unused"],
     "license": "MIT",
